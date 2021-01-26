@@ -57,5 +57,10 @@ namespace WindowsFormsApp1
         {
             userTop1.BringToFront();
         }
+
+        private void userTop1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
